@@ -1,0 +1,58 @@
+/* add your CSS here */
+html {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 15px;
+}
+
+.territory {
+  background-image: url('https://images.theconversation.com/files/115887/original/image-20160321-30912-ukglb5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h3 {
+  font-size: 22px;
+  padding: 0.5px 10px 0.5px 95px;
+}
+
+.images {
+  float: inherit;
+  padding: 0.15px 10px 10px 20px;
+  margin: auto;
+  width: 300px;
+}
+
+body {
+  border: 5px solid black;
+  width: 349px;
+  height: 786px;
+  padding: 0.15px 0.5px 0.10px 0.15px;
+}
+
+.atcard {
+  background-color: #D8AF2F;
+  padding: 0.20em 10px 25px 0px;
+}
+
+ul {
+  font-style: italic;
+  list-style-type: none;
+  float:none;
+  border: 2px solid #4D493D;
+  margin:auto;
+  padding: 0px 0.01px 10px 0.02px;
+  width: 290px;
+  height: 200px;
+  }
+
+.borderme {
+  border: 1px solid #4D493D;
+  padding: 0.05px 10px 240px 10px;
+  margin:auto;
+  width: 290px;
+  height: 200px;
+}
+
+span {
+  font-weight:bold;
+}
